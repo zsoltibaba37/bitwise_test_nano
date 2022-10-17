@@ -7,7 +7,7 @@
 Just a simple program to practice bitwise operation with Arduino
 
 
-```sh
+```c++
 mask0 {0b00000001};
 mask1 {0b00000010};
 flag {0b00010110};
